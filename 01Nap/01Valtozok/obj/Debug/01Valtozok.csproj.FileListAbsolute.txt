@@ -1,0 +1,7 @@
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\01Nap\01Valtozok\bin\Debug\01Valtozok.exe.config
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\01Nap\01Valtozok\bin\Debug\01Valtozok.exe
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\01Nap\01Valtozok\bin\Debug\01Valtozok.pdb
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\01Nap\01Valtozok\obj\Debug\01Valtozok.csprojAssemblyReference.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\01Nap\01Valtozok\obj\Debug\01Valtozok.csproj.CoreCompileInputs.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\01Nap\01Valtozok\obj\Debug\01Valtozok.exe
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\01Nap\01Valtozok\obj\Debug\01Valtozok.pdb
