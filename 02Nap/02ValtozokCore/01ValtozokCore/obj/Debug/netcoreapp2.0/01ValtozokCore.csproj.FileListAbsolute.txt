@@ -1,0 +1,11 @@
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\02Nap\02ValtozokCore\01ValtozokCore\obj\Debug\netcoreapp2.0\01ValtozokCore.csprojAssemblyReference.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\02Nap\02ValtozokCore\01ValtozokCore\obj\Debug\netcoreapp2.0\01ValtozokCore.csproj.CoreCompileInputs.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\02Nap\02ValtozokCore\01ValtozokCore\obj\Debug\netcoreapp2.0\01ValtozokCore.AssemblyInfoInputs.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\02Nap\02ValtozokCore\01ValtozokCore\obj\Debug\netcoreapp2.0\01ValtozokCore.AssemblyInfo.cs
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\02Nap\02ValtozokCore\01ValtozokCore\bin\Debug\netcoreapp2.0\01ValtozokCore.deps.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\02Nap\02ValtozokCore\01ValtozokCore\bin\Debug\netcoreapp2.0\01ValtozokCore.runtimeconfig.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\02Nap\02ValtozokCore\01ValtozokCore\bin\Debug\netcoreapp2.0\01ValtozokCore.runtimeconfig.dev.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\02Nap\02ValtozokCore\01ValtozokCore\bin\Debug\netcoreapp2.0\01ValtozokCore.dll
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\02Nap\02ValtozokCore\01ValtozokCore\bin\Debug\netcoreapp2.0\01ValtozokCore.pdb
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\02Nap\02ValtozokCore\01ValtozokCore\obj\Debug\netcoreapp2.0\01ValtozokCore.dll
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\02Nap\02ValtozokCore\01ValtozokCore\obj\Debug\netcoreapp2.0\01ValtozokCore.pdb
