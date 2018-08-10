@@ -15,8 +15,14 @@ namespace _02SikidomokTerulete
             var triangle = new Triangle(triangleBase: 6, height: 4);
             Console.WriteLine($"háromszög területe: {triangle.Area()}");
 
+            //területek összeadása
+            var areasum = square.Area();
 
-            Console.WriteLine("Hello World!");
+            areasum = areasum + circle.Area();
+
+            areasum += triangle.Area();
+
+            Console.WriteLine($"A területek össszege:{areasum}");
             Console.ReadLine();
         }
     }
