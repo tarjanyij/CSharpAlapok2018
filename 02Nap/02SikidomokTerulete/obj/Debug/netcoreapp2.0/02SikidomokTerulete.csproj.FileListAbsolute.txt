@@ -1,0 +1,11 @@
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\02Nap\02SikidomokTerulete\bin\Debug\netcoreapp2.0\02SikidomokTerulete.deps.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\02Nap\02SikidomokTerulete\bin\Debug\netcoreapp2.0\02SikidomokTerulete.runtimeconfig.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\02Nap\02SikidomokTerulete\bin\Debug\netcoreapp2.0\02SikidomokTerulete.runtimeconfig.dev.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\02Nap\02SikidomokTerulete\bin\Debug\netcoreapp2.0\02SikidomokTerulete.dll
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\02Nap\02SikidomokTerulete\bin\Debug\netcoreapp2.0\02SikidomokTerulete.pdb
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\02Nap\02SikidomokTerulete\obj\Debug\netcoreapp2.0\02SikidomokTerulete.csprojAssemblyReference.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\02Nap\02SikidomokTerulete\obj\Debug\netcoreapp2.0\02SikidomokTerulete.csproj.CoreCompileInputs.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\02Nap\02SikidomokTerulete\obj\Debug\netcoreapp2.0\02SikidomokTerulete.AssemblyInfoInputs.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\02Nap\02SikidomokTerulete\obj\Debug\netcoreapp2.0\02SikidomokTerulete.AssemblyInfo.cs
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\02Nap\02SikidomokTerulete\obj\Debug\netcoreapp2.0\02SikidomokTerulete.dll
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\02Nap\02SikidomokTerulete\obj\Debug\netcoreapp2.0\02SikidomokTerulete.pdb

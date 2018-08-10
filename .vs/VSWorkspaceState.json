@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\01Nap",
-    "\\02Nap"
+    "\\02Nap",
+    "\\02Nap\\02ValtozokCore",
+    "\\02Nap\\02ValtozokCore\\01ValtozokCore"
   ],
-  "SelectedNode": "\\02Nap",
+  "SelectedNode": "\\02Nap\\02ValtozokCore\\01ValtozokCore\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
