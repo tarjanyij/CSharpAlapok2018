@@ -1,6 +1,6 @@
 ﻿namespace _02SikidomokTerulete
 {
-    public class Square
+    public class Square : IPlane
     {
         private int side;
 
