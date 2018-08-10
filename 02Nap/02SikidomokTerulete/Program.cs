@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace _02SikidomokTerulete
 {
@@ -33,11 +34,14 @@ namespace _02SikidomokTerulete
             planes.Add(triangle);
 
 
-            var sum = 0;
-            foreach (var plane in planes)
-            {
-                sum += plane.Area();
-            }
+            //var sum = 0;
+            //foreach (var plane in planes)
+            //{
+            //    sum += plane.Area();
+            //}
+
+            // a ciklus helyett egy Linq használatával egyszerűbb ; be kell tölteni a Linq névteret
+            var sum = planes.Sum(x => x.Area());
 
             Console.WriteLine($"A területek össszege:{sum}");
             Console.ReadLine();
