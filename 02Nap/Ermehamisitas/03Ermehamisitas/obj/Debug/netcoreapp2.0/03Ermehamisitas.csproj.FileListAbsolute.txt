@@ -1,0 +1,11 @@
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\02Nap\Ermehamisitas\03Ermehamisitas\obj\Debug\netcoreapp2.0\03Ermehamisitas.csprojAssemblyReference.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\02Nap\Ermehamisitas\03Ermehamisitas\obj\Debug\netcoreapp2.0\03Ermehamisitas.csproj.CoreCompileInputs.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\02Nap\Ermehamisitas\03Ermehamisitas\obj\Debug\netcoreapp2.0\03Ermehamisitas.AssemblyInfoInputs.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\02Nap\Ermehamisitas\03Ermehamisitas\obj\Debug\netcoreapp2.0\03Ermehamisitas.AssemblyInfo.cs
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\02Nap\Ermehamisitas\03Ermehamisitas\bin\Debug\netcoreapp2.0\03Ermehamisitas.deps.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\02Nap\Ermehamisitas\03Ermehamisitas\bin\Debug\netcoreapp2.0\03Ermehamisitas.runtimeconfig.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\02Nap\Ermehamisitas\03Ermehamisitas\bin\Debug\netcoreapp2.0\03Ermehamisitas.runtimeconfig.dev.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\02Nap\Ermehamisitas\03Ermehamisitas\bin\Debug\netcoreapp2.0\03Ermehamisitas.dll
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\02Nap\Ermehamisitas\03Ermehamisitas\bin\Debug\netcoreapp2.0\03Ermehamisitas.pdb
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\02Nap\Ermehamisitas\03Ermehamisitas\obj\Debug\netcoreapp2.0\03Ermehamisitas.dll
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\02Nap\Ermehamisitas\03Ermehamisitas\obj\Debug\netcoreapp2.0\03Ermehamisitas.pdb
