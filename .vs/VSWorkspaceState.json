@@ -1,11 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\01Nap",
-    "\\02Nap",
-    "\\02Nap\\02SikidomokTerulete",
-    "\\02Nap\\02ValtozokCore\\01ValtozokCore"
+    "\\12Nap"
   ],
-  "SelectedNode": "\\02Nap\\02SikidomokTerulete\\02SikidomokTerulete.csproj",
+  "SelectedNode": "\\12Nap",
   "PreviewInSolutionExplorer": false
 }

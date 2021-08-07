@@ -1,0 +1,11 @@
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\09Nap\09DelegateDef\bin\Debug\netcoreapp2.1\09DelegateDef.deps.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\09Nap\09DelegateDef\bin\Debug\netcoreapp2.1\09DelegateDef.runtimeconfig.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\09Nap\09DelegateDef\bin\Debug\netcoreapp2.1\09DelegateDef.runtimeconfig.dev.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\09Nap\09DelegateDef\bin\Debug\netcoreapp2.1\09DelegateDef.dll
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\09Nap\09DelegateDef\bin\Debug\netcoreapp2.1\09DelegateDef.pdb
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\09Nap\09DelegateDef\obj\Debug\netcoreapp2.1\09DelegateDef.csprojAssemblyReference.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\09Nap\09DelegateDef\obj\Debug\netcoreapp2.1\09DelegateDef.csproj.CoreCompileInputs.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\09Nap\09DelegateDef\obj\Debug\netcoreapp2.1\09DelegateDef.AssemblyInfoInputs.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\09Nap\09DelegateDef\obj\Debug\netcoreapp2.1\09DelegateDef.AssemblyInfo.cs
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\09Nap\09DelegateDef\obj\Debug\netcoreapp2.1\09DelegateDef.dll
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\09Nap\09DelegateDef\obj\Debug\netcoreapp2.1\09DelegateDef.pdb

@@ -1,0 +1,11 @@
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\11Nap\02SerializeDeserialize\bin\Debug\netcoreapp2.1\02SerializeDeserialize.deps.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\11Nap\02SerializeDeserialize\bin\Debug\netcoreapp2.1\02SerializeDeserialize.runtimeconfig.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\11Nap\02SerializeDeserialize\bin\Debug\netcoreapp2.1\02SerializeDeserialize.runtimeconfig.dev.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\11Nap\02SerializeDeserialize\bin\Debug\netcoreapp2.1\02SerializeDeserialize.dll
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\11Nap\02SerializeDeserialize\bin\Debug\netcoreapp2.1\02SerializeDeserialize.pdb
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\11Nap\02SerializeDeserialize\obj\Debug\netcoreapp2.1\02SerializeDeserialize.csprojAssemblyReference.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\11Nap\02SerializeDeserialize\obj\Debug\netcoreapp2.1\02SerializeDeserialize.csproj.CoreCompileInputs.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\11Nap\02SerializeDeserialize\obj\Debug\netcoreapp2.1\02SerializeDeserialize.AssemblyInfoInputs.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\11Nap\02SerializeDeserialize\obj\Debug\netcoreapp2.1\02SerializeDeserialize.AssemblyInfo.cs
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\11Nap\02SerializeDeserialize\obj\Debug\netcoreapp2.1\02SerializeDeserialize.dll
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\11Nap\02SerializeDeserialize\obj\Debug\netcoreapp2.1\02SerializeDeserialize.pdb

@@ -1,0 +1,10 @@
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\09Nap\11FuncActionLambda\bin\Debug\netcoreapp2.1\11FuncActionLambda.deps.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\09Nap\11FuncActionLambda\bin\Debug\netcoreapp2.1\11FuncActionLambda.runtimeconfig.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\09Nap\11FuncActionLambda\bin\Debug\netcoreapp2.1\11FuncActionLambda.runtimeconfig.dev.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\09Nap\11FuncActionLambda\bin\Debug\netcoreapp2.1\11FuncActionLambda.dll
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\09Nap\11FuncActionLambda\bin\Debug\netcoreapp2.1\11FuncActionLambda.pdb
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\09Nap\11FuncActionLambda\obj\Debug\netcoreapp2.1\11FuncActionLambda.csproj.CoreCompileInputs.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\09Nap\11FuncActionLambda\obj\Debug\netcoreapp2.1\11FuncActionLambda.AssemblyInfoInputs.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\09Nap\11FuncActionLambda\obj\Debug\netcoreapp2.1\11FuncActionLambda.AssemblyInfo.cs
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\09Nap\11FuncActionLambda\obj\Debug\netcoreapp2.1\11FuncActionLambda.dll
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\09Nap\11FuncActionLambda\obj\Debug\netcoreapp2.1\11FuncActionLambda.pdb

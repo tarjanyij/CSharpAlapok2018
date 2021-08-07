@@ -1,0 +1,11 @@
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\10Nap\02Events\obj\Debug\netcoreapp2.1\02Events.csprojAssemblyReference.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\10Nap\02Events\obj\Debug\netcoreapp2.1\02Events.csproj.CoreCompileInputs.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\10Nap\02Events\obj\Debug\netcoreapp2.1\02Events.AssemblyInfoInputs.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\10Nap\02Events\obj\Debug\netcoreapp2.1\02Events.AssemblyInfo.cs
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\10Nap\02Events\bin\Debug\netcoreapp2.1\02Events.deps.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\10Nap\02Events\bin\Debug\netcoreapp2.1\02Events.runtimeconfig.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\10Nap\02Events\bin\Debug\netcoreapp2.1\02Events.runtimeconfig.dev.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\10Nap\02Events\bin\Debug\netcoreapp2.1\02Events.dll
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\10Nap\02Events\bin\Debug\netcoreapp2.1\02Events.pdb
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\10Nap\02Events\obj\Debug\netcoreapp2.1\02Events.dll
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\10Nap\02Events\obj\Debug\netcoreapp2.1\02Events.pdb

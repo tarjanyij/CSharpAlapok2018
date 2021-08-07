@@ -1,0 +1,11 @@
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\11Nap\01LocalData\bin\Debug\netcoreapp2.1\01LocalData.deps.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\11Nap\01LocalData\bin\Debug\netcoreapp2.1\01LocalData.runtimeconfig.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\11Nap\01LocalData\bin\Debug\netcoreapp2.1\01LocalData.runtimeconfig.dev.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\11Nap\01LocalData\bin\Debug\netcoreapp2.1\01LocalData.dll
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\11Nap\01LocalData\bin\Debug\netcoreapp2.1\01LocalData.pdb
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\11Nap\01LocalData\obj\Debug\netcoreapp2.1\01LocalData.csprojAssemblyReference.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\11Nap\01LocalData\obj\Debug\netcoreapp2.1\01LocalData.csproj.CoreCompileInputs.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\11Nap\01LocalData\obj\Debug\netcoreapp2.1\01LocalData.AssemblyInfoInputs.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\11Nap\01LocalData\obj\Debug\netcoreapp2.1\01LocalData.AssemblyInfo.cs
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\11Nap\01LocalData\obj\Debug\netcoreapp2.1\01LocalData.dll
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\11Nap\01LocalData\obj\Debug\netcoreapp2.1\01LocalData.pdb

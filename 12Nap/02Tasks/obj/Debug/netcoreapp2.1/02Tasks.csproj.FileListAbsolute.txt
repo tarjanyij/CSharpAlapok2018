@@ -1,0 +1,11 @@
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\12Nap\02Tasks\obj\Debug\netcoreapp2.1\02Tasks.csprojAssemblyReference.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\12Nap\02Tasks\obj\Debug\netcoreapp2.1\02Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\12Nap\02Tasks\obj\Debug\netcoreapp2.1\02Tasks.AssemblyInfoInputs.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\12Nap\02Tasks\obj\Debug\netcoreapp2.1\02Tasks.AssemblyInfo.cs
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\12Nap\02Tasks\bin\Debug\netcoreapp2.1\02Tasks.deps.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\12Nap\02Tasks\bin\Debug\netcoreapp2.1\02Tasks.runtimeconfig.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\12Nap\02Tasks\bin\Debug\netcoreapp2.1\02Tasks.runtimeconfig.dev.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\12Nap\02Tasks\bin\Debug\netcoreapp2.1\02Tasks.dll
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\12Nap\02Tasks\bin\Debug\netcoreapp2.1\02Tasks.pdb
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\12Nap\02Tasks\obj\Debug\netcoreapp2.1\02Tasks.dll
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\12Nap\02Tasks\obj\Debug\netcoreapp2.1\02Tasks.pdb

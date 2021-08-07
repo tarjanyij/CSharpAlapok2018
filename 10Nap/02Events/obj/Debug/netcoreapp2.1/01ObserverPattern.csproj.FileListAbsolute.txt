@@ -1,0 +1,11 @@
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\10Nap\01ObserverPattern\bin\Debug\netcoreapp2.1\01ObserverPattern.deps.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\10Nap\01ObserverPattern\bin\Debug\netcoreapp2.1\01ObserverPattern.runtimeconfig.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\10Nap\01ObserverPattern\bin\Debug\netcoreapp2.1\01ObserverPattern.runtimeconfig.dev.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\10Nap\01ObserverPattern\bin\Debug\netcoreapp2.1\01ObserverPattern.dll
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\10Nap\01ObserverPattern\bin\Debug\netcoreapp2.1\01ObserverPattern.pdb
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\10Nap\01ObserverPattern\obj\Debug\netcoreapp2.1\01ObserverPattern.csprojAssemblyReference.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\10Nap\01ObserverPattern\obj\Debug\netcoreapp2.1\01ObserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\10Nap\01ObserverPattern\obj\Debug\netcoreapp2.1\01ObserverPattern.AssemblyInfoInputs.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\10Nap\01ObserverPattern\obj\Debug\netcoreapp2.1\01ObserverPattern.AssemblyInfo.cs
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\10Nap\01ObserverPattern\obj\Debug\netcoreapp2.1\01ObserverPattern.dll
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\10Nap\01ObserverPattern\obj\Debug\netcoreapp2.1\01ObserverPattern.pdb

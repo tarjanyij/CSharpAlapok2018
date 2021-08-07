@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<DataList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Data>
+    <DataClass>
+      <Integer>2147483647</Integer>
+      <Double>3.1415926535897931</Double>
+      <DateTime>2018-10-01T15:39:40.6121435+02:00</DateTime>
+      <Text>Ez egy söveg árvítűrőtükörfúrógép</Text>
+    </DataClass>
+    <DataClass>
+      <Integer>2147483647</Integer>
+      <Double>3.1415926535897931</Double>
+      <DateTime>2018-10-01T15:39:40.6121435+02:00</DateTime>
+      <Text>Ez egy söveg árvítűrőtükörfúrógép</Text>
+    </DataClass>
+    <DataClass>
+      <Integer>2147483647</Integer>
+      <Double>3.1415926535897931</Double>
+      <DateTime>2018-10-01T15:39:40.6121435+02:00</DateTime>
+      <Text>Ez egy söveg árvítűrőtükörfúrógép</Text>
+    </DataClass>
+    <DataClass>
+      <Integer>2147483647</Integer>
+      <Double>3.1415926535897931</Double>
+      <DateTime>2018-10-01T15:39:40.6121435+02:00</DateTime>
+      <Text>Ez egy söveg árvítűrőtükörfúrógép</Text>
+    </DataClass>
+  </Data>
+  <DataClass>
+    <Integer>2147483647</Integer>
+    <Double>3.1415926535897931</Double>
+    <DateTime>2018-10-01T15:39:40.6121435+02:00</DateTime>
+    <Text>Ez egy söveg árvítűrőtükörfúrógép</Text>
+  </DataClass>
+</DataList>

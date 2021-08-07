@@ -1,0 +1,11 @@
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\08Nap\07SeriLog\bin\Debug\netcoreapp2.1\07SeriLog.deps.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\08Nap\07SeriLog\bin\Debug\netcoreapp2.1\07SeriLog.runtimeconfig.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\08Nap\07SeriLog\bin\Debug\netcoreapp2.1\07SeriLog.runtimeconfig.dev.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\08Nap\07SeriLog\bin\Debug\netcoreapp2.1\07SeriLog.dll
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\08Nap\07SeriLog\obj\Debug\netcoreapp2.1\07SeriLog.csprojAssemblyReference.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\08Nap\07SeriLog\obj\Debug\netcoreapp2.1\07SeriLog.csproj.CoreCompileInputs.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\08Nap\07SeriLog\obj\Debug\netcoreapp2.1\07SeriLog.AssemblyInfoInputs.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\08Nap\07SeriLog\obj\Debug\netcoreapp2.1\07SeriLog.AssemblyInfo.cs
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\08Nap\07SeriLog\bin\Debug\netcoreapp2.1\07SeriLog.pdb
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\08Nap\07SeriLog\obj\Debug\netcoreapp2.1\07SeriLog.dll
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\08Nap\07SeriLog\obj\Debug\netcoreapp2.1\07SeriLog.pdb

@@ -1,0 +1,11 @@
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\04Nap\04Nap\04ConstruktorFinalizer\bin\Debug\netcoreapp2.0\04ConstruktorFinalizer.deps.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\04Nap\04Nap\04ConstruktorFinalizer\bin\Debug\netcoreapp2.0\04ConstruktorFinalizer.runtimeconfig.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\04Nap\04Nap\04ConstruktorFinalizer\bin\Debug\netcoreapp2.0\04ConstruktorFinalizer.runtimeconfig.dev.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\04Nap\04Nap\04ConstruktorFinalizer\bin\Debug\netcoreapp2.0\04ConstruktorFinalizer.dll
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\04Nap\04Nap\04ConstruktorFinalizer\bin\Debug\netcoreapp2.0\04ConstruktorFinalizer.pdb
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\04Nap\04Nap\04ConstruktorFinalizer\obj\Debug\netcoreapp2.0\04ConstruktorFinalizer.csprojAssemblyReference.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\04Nap\04Nap\04ConstruktorFinalizer\obj\Debug\netcoreapp2.0\04ConstruktorFinalizer.csproj.CoreCompileInputs.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\04Nap\04Nap\04ConstruktorFinalizer\obj\Debug\netcoreapp2.0\04ConstruktorFinalizer.AssemblyInfoInputs.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\04Nap\04Nap\04ConstruktorFinalizer\obj\Debug\netcoreapp2.0\04ConstruktorFinalizer.AssemblyInfo.cs
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\04Nap\04Nap\04ConstruktorFinalizer\obj\Debug\netcoreapp2.0\04ConstruktorFinalizer.dll
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\04Nap\04Nap\04ConstruktorFinalizer\obj\Debug\netcoreapp2.0\04ConstruktorFinalizer.pdb

@@ -1,0 +1,11 @@
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\07Nap\02Exception\02Exception\bin\Debug\netcoreapp2.1\02Exception.deps.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\07Nap\02Exception\02Exception\bin\Debug\netcoreapp2.1\02Exception.runtimeconfig.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\07Nap\02Exception\02Exception\bin\Debug\netcoreapp2.1\02Exception.runtimeconfig.dev.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\07Nap\02Exception\02Exception\bin\Debug\netcoreapp2.1\02Exception.dll
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\07Nap\02Exception\02Exception\bin\Debug\netcoreapp2.1\02Exception.pdb
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\07Nap\02Exception\02Exception\obj\Debug\netcoreapp2.1\02Exception.csprojAssemblyReference.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\07Nap\02Exception\02Exception\obj\Debug\netcoreapp2.1\02Exception.csproj.CoreCompileInputs.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\07Nap\02Exception\02Exception\obj\Debug\netcoreapp2.1\02Exception.AssemblyInfoInputs.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\07Nap\02Exception\02Exception\obj\Debug\netcoreapp2.1\02Exception.AssemblyInfo.cs
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\07Nap\02Exception\02Exception\obj\Debug\netcoreapp2.1\02Exception.dll
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\07Nap\02Exception\02Exception\obj\Debug\netcoreapp2.1\02Exception.pdb

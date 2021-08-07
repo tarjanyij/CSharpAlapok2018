@@ -1,0 +1,11 @@
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\07Nap\02Exception\04ExceptionPerformance\bin\Debug\netcoreapp2.1\04ExceptionPerformance.deps.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\07Nap\02Exception\04ExceptionPerformance\bin\Debug\netcoreapp2.1\04ExceptionPerformance.runtimeconfig.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\07Nap\02Exception\04ExceptionPerformance\bin\Debug\netcoreapp2.1\04ExceptionPerformance.runtimeconfig.dev.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\07Nap\02Exception\04ExceptionPerformance\bin\Debug\netcoreapp2.1\04ExceptionPerformance.dll
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\07Nap\02Exception\04ExceptionPerformance\bin\Debug\netcoreapp2.1\04ExceptionPerformance.pdb
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\07Nap\02Exception\04ExceptionPerformance\obj\Debug\netcoreapp2.1\04ExceptionPerformance.csprojAssemblyReference.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\07Nap\02Exception\04ExceptionPerformance\obj\Debug\netcoreapp2.1\04ExceptionPerformance.csproj.CoreCompileInputs.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\07Nap\02Exception\04ExceptionPerformance\obj\Debug\netcoreapp2.1\04ExceptionPerformance.AssemblyInfoInputs.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\07Nap\02Exception\04ExceptionPerformance\obj\Debug\netcoreapp2.1\04ExceptionPerformance.AssemblyInfo.cs
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\07Nap\02Exception\04ExceptionPerformance\obj\Debug\netcoreapp2.1\04ExceptionPerformance.dll
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\07Nap\02Exception\04ExceptionPerformance\obj\Debug\netcoreapp2.1\04ExceptionPerformance.pdb

@@ -1,0 +1,8 @@
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\12Nap\01RestApi\bin\Debug\netcoreapp2.1\01RestApi.deps.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\12Nap\01RestApi\bin\Debug\netcoreapp2.1\01RestApi.runtimeconfig.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\12Nap\01RestApi\bin\Debug\netcoreapp2.1\01RestApi.runtimeconfig.dev.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\12Nap\01RestApi\bin\Debug\netcoreapp2.1\01RestApi.dll
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\12Nap\01RestApi\obj\Debug\netcoreapp2.1\01RestApi.csprojAssemblyReference.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\12Nap\01RestApi\obj\Debug\netcoreapp2.1\01RestApi.csproj.CoreCompileInputs.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\12Nap\01RestApi\obj\Debug\netcoreapp2.1\01RestApi.AssemblyInfoInputs.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\12Nap\01RestApi\obj\Debug\netcoreapp2.1\01RestApi.AssemblyInfo.cs

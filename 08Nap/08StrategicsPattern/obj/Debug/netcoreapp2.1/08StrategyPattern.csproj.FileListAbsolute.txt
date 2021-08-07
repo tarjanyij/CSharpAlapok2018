@@ -1,0 +1,11 @@
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\08Nap\08StrategicsPattern\obj\Debug\netcoreapp2.1\08StrategyPattern.csprojAssemblyReference.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\08Nap\08StrategicsPattern\obj\Debug\netcoreapp2.1\08StrategyPattern.csproj.CoreCompileInputs.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\08Nap\08StrategicsPattern\obj\Debug\netcoreapp2.1\08StrategyPattern.AssemblyInfoInputs.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\08Nap\08StrategicsPattern\obj\Debug\netcoreapp2.1\08StrategyPattern.AssemblyInfo.cs
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\08Nap\08StrategicsPattern\bin\Debug\netcoreapp2.1\08StrategyPattern.deps.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\08Nap\08StrategicsPattern\bin\Debug\netcoreapp2.1\08StrategyPattern.runtimeconfig.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\08Nap\08StrategicsPattern\bin\Debug\netcoreapp2.1\08StrategyPattern.runtimeconfig.dev.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\08Nap\08StrategicsPattern\bin\Debug\netcoreapp2.1\08StrategyPattern.dll
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\08Nap\08StrategicsPattern\bin\Debug\netcoreapp2.1\08StrategyPattern.pdb
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\08Nap\08StrategicsPattern\obj\Debug\netcoreapp2.1\08StrategyPattern.dll
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\08Nap\08StrategicsPattern\obj\Debug\netcoreapp2.1\08StrategyPattern.pdb

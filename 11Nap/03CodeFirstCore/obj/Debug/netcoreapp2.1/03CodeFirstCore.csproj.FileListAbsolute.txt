@@ -1,0 +1,11 @@
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\11Nap\03CodeFirstCore\bin\Debug\netcoreapp2.1\03CodeFirstCore.deps.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\11Nap\03CodeFirstCore\bin\Debug\netcoreapp2.1\03CodeFirstCore.runtimeconfig.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\11Nap\03CodeFirstCore\bin\Debug\netcoreapp2.1\03CodeFirstCore.runtimeconfig.dev.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\11Nap\03CodeFirstCore\bin\Debug\netcoreapp2.1\03CodeFirstCore.dll
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\11Nap\03CodeFirstCore\obj\Debug\netcoreapp2.1\03CodeFirstCore.csprojAssemblyReference.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\11Nap\03CodeFirstCore\obj\Debug\netcoreapp2.1\03CodeFirstCore.csproj.CoreCompileInputs.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\11Nap\03CodeFirstCore\obj\Debug\netcoreapp2.1\03CodeFirstCore.AssemblyInfoInputs.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\11Nap\03CodeFirstCore\obj\Debug\netcoreapp2.1\03CodeFirstCore.AssemblyInfo.cs
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\11Nap\03CodeFirstCore\bin\Debug\netcoreapp2.1\03CodeFirstCore.pdb
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\11Nap\03CodeFirstCore\obj\Debug\netcoreapp2.1\03CodeFirstCore.dll
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\11Nap\03CodeFirstCore\obj\Debug\netcoreapp2.1\03CodeFirstCore.pdb

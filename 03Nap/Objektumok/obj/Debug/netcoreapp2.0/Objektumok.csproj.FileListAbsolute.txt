@@ -1,0 +1,11 @@
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\03Nap\Objektumok\bin\Debug\netcoreapp2.0\Objektumok.deps.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\03Nap\Objektumok\bin\Debug\netcoreapp2.0\Objektumok.runtimeconfig.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\03Nap\Objektumok\bin\Debug\netcoreapp2.0\Objektumok.runtimeconfig.dev.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\03Nap\Objektumok\bin\Debug\netcoreapp2.0\Objektumok.dll
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\03Nap\Objektumok\bin\Debug\netcoreapp2.0\Objektumok.pdb
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\03Nap\Objektumok\obj\Debug\netcoreapp2.0\Objektumok.csprojAssemblyReference.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\03Nap\Objektumok\obj\Debug\netcoreapp2.0\Objektumok.csproj.CoreCompileInputs.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\03Nap\Objektumok\obj\Debug\netcoreapp2.0\Objektumok.AssemblyInfoInputs.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\03Nap\Objektumok\obj\Debug\netcoreapp2.0\Objektumok.AssemblyInfo.cs
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\03Nap\Objektumok\obj\Debug\netcoreapp2.0\Objektumok.dll
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\03Nap\Objektumok\obj\Debug\netcoreapp2.0\Objektumok.pdb

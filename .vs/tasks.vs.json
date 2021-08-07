@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-Program",
+      "appliesTo": "03Nap/Objektumok/Program.cs",
+      "type": "launch"
+    }
+  ]
+}

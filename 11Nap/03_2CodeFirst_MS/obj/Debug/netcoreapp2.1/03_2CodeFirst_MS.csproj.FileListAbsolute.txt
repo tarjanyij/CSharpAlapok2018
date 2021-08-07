@@ -1,0 +1,8 @@
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\11Nap\03_2CodeFirst_MS\bin\Debug\netcoreapp2.1\03_2CodeFirst_MS.deps.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\11Nap\03_2CodeFirst_MS\bin\Debug\netcoreapp2.1\03_2CodeFirst_MS.runtimeconfig.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\11Nap\03_2CodeFirst_MS\bin\Debug\netcoreapp2.1\03_2CodeFirst_MS.runtimeconfig.dev.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\11Nap\03_2CodeFirst_MS\bin\Debug\netcoreapp2.1\03_2CodeFirst_MS.dll
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\11Nap\03_2CodeFirst_MS\obj\Debug\netcoreapp2.1\03_2CodeFirst_MS.csprojAssemblyReference.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\11Nap\03_2CodeFirst_MS\obj\Debug\netcoreapp2.1\03_2CodeFirst_MS.csproj.CoreCompileInputs.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\11Nap\03_2CodeFirst_MS\obj\Debug\netcoreapp2.1\03_2CodeFirst_MS.AssemblyInfoInputs.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\11Nap\03_2CodeFirst_MS\obj\Debug\netcoreapp2.1\03_2CodeFirst_MS.AssemblyInfo.cs

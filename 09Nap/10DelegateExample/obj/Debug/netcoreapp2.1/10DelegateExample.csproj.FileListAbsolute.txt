@@ -1,0 +1,11 @@
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\09Nap\10DelegateExample\bin\Debug\netcoreapp2.1\10DelegateExample.deps.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\09Nap\10DelegateExample\bin\Debug\netcoreapp2.1\10DelegateExample.runtimeconfig.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\09Nap\10DelegateExample\bin\Debug\netcoreapp2.1\10DelegateExample.runtimeconfig.dev.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\09Nap\10DelegateExample\bin\Debug\netcoreapp2.1\10DelegateExample.dll
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\09Nap\10DelegateExample\bin\Debug\netcoreapp2.1\10DelegateExample.pdb
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\09Nap\10DelegateExample\obj\Debug\netcoreapp2.1\10DelegateExample.csprojAssemblyReference.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\09Nap\10DelegateExample\obj\Debug\netcoreapp2.1\10DelegateExample.csproj.CoreCompileInputs.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\09Nap\10DelegateExample\obj\Debug\netcoreapp2.1\10DelegateExample.AssemblyInfoInputs.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\09Nap\10DelegateExample\obj\Debug\netcoreapp2.1\10DelegateExample.AssemblyInfo.cs
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\09Nap\10DelegateExample\obj\Debug\netcoreapp2.1\10DelegateExample.dll
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\09Nap\10DelegateExample\obj\Debug\netcoreapp2.1\10DelegateExample.pdb

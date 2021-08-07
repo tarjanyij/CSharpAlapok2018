@@ -1,0 +1,11 @@
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\05Nap\05Nap\02Ienurable\bin\Debug\netcoreapp2.1\02Ienurable.deps.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\05Nap\05Nap\02Ienurable\bin\Debug\netcoreapp2.1\02Ienurable.runtimeconfig.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\05Nap\05Nap\02Ienurable\bin\Debug\netcoreapp2.1\02Ienurable.runtimeconfig.dev.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\05Nap\05Nap\02Ienurable\bin\Debug\netcoreapp2.1\02Ienurable.dll
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\05Nap\05Nap\02Ienurable\bin\Debug\netcoreapp2.1\02Ienurable.pdb
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\05Nap\05Nap\02Ienurable\obj\Debug\netcoreapp2.1\02Ienurable.csprojAssemblyReference.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\05Nap\05Nap\02Ienurable\obj\Debug\netcoreapp2.1\02Ienurable.csproj.CoreCompileInputs.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\05Nap\05Nap\02Ienurable\obj\Debug\netcoreapp2.1\02Ienurable.AssemblyInfoInputs.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\05Nap\05Nap\02Ienurable\obj\Debug\netcoreapp2.1\02Ienurable.AssemblyInfo.cs
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\05Nap\05Nap\02Ienurable\obj\Debug\netcoreapp2.1\02Ienurable.dll
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\05Nap\05Nap\02Ienurable\obj\Debug\netcoreapp2.1\02Ienurable.pdb

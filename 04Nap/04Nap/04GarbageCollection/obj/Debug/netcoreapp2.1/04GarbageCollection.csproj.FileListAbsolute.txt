@@ -1,0 +1,8 @@
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\04Nap\04Nap\04GarbageCollection\bin\Debug\netcoreapp2.1\04GarbageCollection.deps.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\04Nap\04Nap\04GarbageCollection\bin\Debug\netcoreapp2.1\04GarbageCollection.runtimeconfig.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\04Nap\04Nap\04GarbageCollection\bin\Debug\netcoreapp2.1\04GarbageCollection.runtimeconfig.dev.json
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\04Nap\04Nap\04GarbageCollection\bin\Debug\netcoreapp2.1\04GarbageCollection.dll
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\04Nap\04Nap\04GarbageCollection\obj\Debug\netcoreapp2.1\04GarbageCollection.csprojAssemblyReference.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\04Nap\04Nap\04GarbageCollection\obj\Debug\netcoreapp2.1\04GarbageCollection.csproj.CoreCompileInputs.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\04Nap\04Nap\04GarbageCollection\obj\Debug\netcoreapp2.1\04GarbageCollection.AssemblyInfoInputs.cache
+C:\Users\Tarjányi József\source\repos\CSharpAlapok2018\04Nap\04Nap\04GarbageCollection\obj\Debug\netcoreapp2.1\04GarbageCollection.AssemblyInfo.cs
